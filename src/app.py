@@ -61,7 +61,7 @@ activities = {
         "description": "Act, direct, and produce school plays and performances",
         "schedule": "Tuesdays, 5:00 PM - 6:30 PM",
         "max_participants": 20,
-        "participants": ["ella@mergington.edu", "jack@mergington.edu"]
+        "participants": ""
     },
     "Math Olympiad": {
         "description": "Prepare for math competitions and solve challenging problems",
